@@ -1,0 +1,8 @@
+{
+  "name": "realworld-e2e",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@muuktest/amikoo-reporter": "latest"
+  }
+}
